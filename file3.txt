@@ -1,2 +1,5 @@
 this is file3.txt
+<<<<<<< HEAD
 modifi
+=======
+>>>>>>> parent of dc8447d (Update file3.txt)
